@@ -2,11 +2,13 @@ h1 {
     color:blue
 }
 #thirdDiv {
-    width: 600px;
-    height: 500px;
+    width: 500px;
+    height: 600px;
     background-color: coral;
     padding: 50px;
     border: 12px solid black;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 .divClass {
     border: 20px aqua;
